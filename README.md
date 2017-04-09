@@ -1,1 +1,3 @@
 # hello-world
+
+Learning about GitHub via the hello-world tutorial. I'm a CS student always eager to learn more...
